@@ -16,7 +16,7 @@
     "cookie-parser": "~1.4.3",
     "debug": "~2.2.0",
     "ejs": "~2.4.1",
-    "email-templates": "^2.5.2",
+    "email-templates": "^11.1.1",
     "express": "~4.13.4",
     "express-validator": "^2.20.10",
     "gulp": "^3.9.1",
