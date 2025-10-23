@@ -10,7 +10,7 @@
     "init-db-standalone": "NODE_ENV=test node --harmony ./bin/init-db-standalone"
   },
   "dependencies": {
-    "arangojs": "^5.0.3",
+    "arangojs": "^9.0.0",
     "body-parser": "~1.15.1",
     "co": "^4.6.0",
     "cookie-parser": "~1.4.3",
